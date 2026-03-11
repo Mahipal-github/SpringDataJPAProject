@@ -46,8 +46,6 @@ public class Student {
 		
 	}
 
-
-
 	public Long getStudentId() {
 		return studentId;
 	}
@@ -80,5 +78,9 @@ public class Student {
 	public void setGuardian(Guardian guardian) {
 		this.guardian = guardian;
 	}
+//	public void setGuardian(Guardian guardian) {
+//		this.guardian = guardian;
+//	}
 	
 }
+
